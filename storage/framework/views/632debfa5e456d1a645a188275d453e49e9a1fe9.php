@@ -1,0 +1,1 @@
+<?php /**PATH E:\laratodo\laratodo\resources\views/todolist.blade.php ENDPATH**/ ?>

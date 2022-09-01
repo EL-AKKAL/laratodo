@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.strike_none{
+    text-decoration:none;
+}
+.green{
+ background-color:green !important;   
+}
